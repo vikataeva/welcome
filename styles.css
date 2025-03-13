@@ -1,0 +1,23 @@
+
+li.menu {
+    display: inline;
+}
+body {
+    background-color: rgb(209, 238, 240);
+}
+h1 {
+    color: rgb(51, 0, 140);
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a.menu {
+    background-color: rgb(248, 247, 173);
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+}
